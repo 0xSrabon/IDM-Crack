@@ -9,7 +9,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Release Version-v1.1-blue.svg">
   </a>
-  <a target="_blank" href="https://github.com/rizkisquadpants/IDMActivation/releases">
+  <a target="_blank" href="https://github.com/0xSrabon/IDM-Crack/releases/tag/Release">
     <img src="https://img.shields.io/badge/Download-Klik Disini-darkgreen.svg">
   </a>
   </p>
